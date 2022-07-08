@@ -83,32 +83,38 @@
   ],
   "experience": [
     {
-      "company": "VTMT",
-      "title": "model",
-      "years": "10.2018 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "outings": ["contacts", "Photoshot"]
+      "company": "Kl fashion show",
+      "title": "fashion show",
+      "years": "01.2021 - 09.2021",
+      "mainTech": ["Kl 7/8"],
+      "outings": ["nerd unit ", "Bookd"]
+    },
+    {
+      "company": "Gucci",
+      "title": "Store shot",
+      "years": "01.2019 - 09.2020",
+      "mainTech": ["gucci 7/8"],
+      "outings": ["store shots ", "Brand display", "Brand display", "Photoshot"]
     },
     {
       "company": "Vintage",
-      "title": "Model",
+      "title": "Modelling",
       "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "outings": ["nerd unit ", "Bookd"]
+      "mainTech": ["Vintage 7/8"],
+      "outings": [
+        "nerd unit ",
+        "Bookd",
+        "Brand display",
+        "Photoshot",
+        "store shots "
+      ]
     },
     {
-      "company": "Kl fashion show",
-      "title": "Show",
-      "years": "01.2021 - 09.2021",
-      "mainTech": ["gucci 7/8"],
-      "outings": ["nerd unit ", "Bookd"]
-    },
-    {
-      "company": "Gucci store shot",
-      "title": "Model",
-      "years": "01.2019 - 09.2020",
-      "mainTech": ["guccir 7/8"],
-      "outings": ["store shots ", "Brand display"]
+      "company": "VTMT",
+      "title": "branding",
+      "years": "10.2018 - present",
+      "mainTech": ["VTMT 8/9/10"],
+      "outings": ["contacts", "Photoshot", "Brand display"]
     }
   ]
 }
