@@ -19,7 +19,7 @@
         "images/portfolio/animal-shelter/p2.jpg"
       ],
       "url": "",
-      "technologies": [
+      "outings": [
         {
           "class": "bi bi-music-note",
           "name": "Angular"
@@ -43,7 +43,7 @@
         "images/portfolio/photography/p2.jpg"
       ],
       "url": "https://github.com",
-      "technologies": [
+      "outings": [
         {
           "class": "devicon-react-original",
           "name": "React"
@@ -63,7 +63,7 @@
         "images/portfolio/adventure/p2.jpg"
       ],
       "url": "https://github.com",
-      "technologies": [
+      "outings": [
         {
           "class": "devicon-angularjs-plain",
           "name": "Angular"
@@ -85,7 +85,7 @@
       "title": "Front-End Developer",
       "years": "10.2019 - obecnie",
       "mainTech": ["Angular 8/9/10"],
-      "technologies": [
+      "outings": [
         "REST API",
         "RxJS",
         "JavaScript",
@@ -100,13 +100,7 @@
       "title": "Stażystka",
       "years": "01.2018 - 09.2019",
       "mainTech": ["Angular 7/8"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "Swagger",
-        "JavaScript",
-        "DHTMLX Gantt"
-      ]
+      "outings": ["REST API", "RxJS", "Swagger", "JavaScript", "DHTMLX Gantt"]
     }
   ]
 }
