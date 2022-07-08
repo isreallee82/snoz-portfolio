@@ -4,9 +4,9 @@
     "titles": ["Model", "Artist", "writer", "Designer"],
     "social": [
       {
-        "name": "github",
-        "url": "https://github.com",
-        "class": "fab fa-github"
+        "name": "linkdln",
+        "url": "https://www.linkedin.com/in/elijah-snoz-1a6901180",
+        "class": "bi bi-linkedin"
       },
       {
         "name": "instagram",

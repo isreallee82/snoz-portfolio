@@ -16,7 +16,11 @@
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/animal-shelter/p2.jpg",
+        "images/portfolio/animal-shelter/p3.jpg",
+        "images/portfolio/animal-shelter/p4.jpg",
+        "images/portfolio/animal-shelter/p5.jpg",
+        "images/portfolio/animal-shelter/p6.jpg"
       ],
       "url": "",
       "technologies": [
@@ -81,9 +85,9 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "VTMT",
+      "title": "model",
+      "years": "10.2018 - present",
       "mainTech": ["Angular 8/9/10"],
       "technologies": [
         "REST API",
@@ -98,8 +102,8 @@
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
+      "company": "Vintage",
+      "title": "Model",
       "years": "01.2018 - 09.2019",
       "mainTech": ["Angular 7/8"],
       "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
