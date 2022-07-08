@@ -1,0 +1,63 @@
+{
+  "basic_info": {
+    "name": "Elijah snoz",
+    "titles": ["Model", "Artist", "writer", "Designer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/elijahsnoz",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Modelling",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "Musician",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Writter",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Dancer",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "Designer",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Branding",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Event planner",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Photography",
+        "class": "devicon-csharp-plain",
+        "level": "65"
+      }
+    ]
+  }
+}
