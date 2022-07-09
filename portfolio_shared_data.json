@@ -20,37 +20,37 @@
     "icons": [
       {
         "name": "Modelling",
-        "class": "devicon-html5-plain",
+        "class": "",
         "level": "95"
       },
       {
         "name": "Musician",
-        "class": "bi bi-music-note",
+        "class": "",
         "level": "95"
       },
       {
         "name": "Writter",
-        "class": "devicon-angularjs-plain",
+        "class": "",
         "level": "80"
       },
       {
         "name": "Dancer",
-        "class": "devicon-typescript-plain",
+        "class": "",
         "level": "90"
       },
       {
         "name": "Designer",
-        "class": "devicon-javascript-plain",
+        "class": "",
         "level": "70"
       },
       {
         "name": "Event planner",
-        "class": "devicon-bootstrap-plain",
+        "class": "",
         "level": "85"
       },
       {
         "name": "Photography",
-        "class": "devicon-csharp-plain",
+        "class": "",
         "level": "65"
       }
     ]
