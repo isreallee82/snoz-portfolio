@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/snoz-portfolio/static/css/main.b92025b1.chunk.css",
+    "main.css": "/snoz-portfolio/static/css/main.ebe744c5.chunk.css",
     "main.js": "/snoz-portfolio/static/js/main.cf0e626e.chunk.js",
     "main.js.map": "/snoz-portfolio/static/js/main.cf0e626e.chunk.js.map",
     "runtime-main.js": "/snoz-portfolio/static/js/runtime-main.93edb26c.js",
@@ -9,17 +9,17 @@
     "static/js/2.b8696cf0.chunk.js": "/snoz-portfolio/static/js/2.b8696cf0.chunk.js",
     "static/js/2.b8696cf0.chunk.js.map": "/snoz-portfolio/static/js/2.b8696cf0.chunk.js.map",
     "index.html": "/snoz-portfolio/index.html",
-    "precache-manifest.01d8feda4e33b0ac119f283da278c924.js": "/snoz-portfolio/precache-manifest.01d8feda4e33b0ac119f283da278c924.js",
+    "precache-manifest.7622095dcf863b1b1c356d86d25b0a14.js": "/snoz-portfolio/precache-manifest.7622095dcf863b1b1c356d86d25b0a14.js",
     "service-worker.js": "/snoz-portfolio/service-worker.js",
     "static/css/2.d39e68e1.chunk.css.map": "/snoz-portfolio/static/css/2.d39e68e1.chunk.css.map",
-    "static/css/main.b92025b1.chunk.css.map": "/snoz-portfolio/static/css/main.b92025b1.chunk.css.map",
+    "static/css/main.ebe744c5.chunk.css.map": "/snoz-portfolio/static/css/main.ebe744c5.chunk.css.map",
     "static/js/2.b8696cf0.chunk.js.LICENSE.txt": "/snoz-portfolio/static/js/2.b8696cf0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93edb26c.js",
     "static/css/2.d39e68e1.chunk.css",
     "static/js/2.b8696cf0.chunk.js",
-    "static/css/main.b92025b1.chunk.css",
+    "static/css/main.ebe744c5.chunk.css",
     "static/js/main.cf0e626e.chunk.js"
   ]
 }
