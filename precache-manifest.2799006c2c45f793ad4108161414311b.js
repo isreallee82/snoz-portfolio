@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e14a2669eefbcc6d28bf79ddf586b49a",
+    "revision": "a4dc282db068f403ccd6c38d7ac5643e",
     "url": "/snoz-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/snoz-portfolio/static/css/2.d39e68e1.chunk.css"
   },
   {
-    "revision": "e26f4b2f7bc7bde68434",
+    "revision": "2f4b72efc367451da195",
     "url": "/snoz-portfolio/static/css/main.de83fad1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/snoz-portfolio/static/js/2.285bc02f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e26f4b2f7bc7bde68434",
-    "url": "/snoz-portfolio/static/js/main.13eb5dd5.chunk.js"
+    "revision": "2f4b72efc367451da195",
+    "url": "/snoz-portfolio/static/js/main.fc15c076.chunk.js"
   },
   {
     "revision": "71158f9269eb73ef84c0",
