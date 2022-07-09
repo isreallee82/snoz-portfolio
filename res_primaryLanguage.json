@@ -58,8 +58,6 @@
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg",
         "images/portfolio/photography/p3.jepg",
         "images/portfolio/photography/p4.jepg",
         "images/portfolio/photography/p5.jepg",
@@ -83,8 +81,6 @@
       "startDate": "2019",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg",
         "images/portfolio/photography/p3.jepg",
         "images/portfolio/photography/p4.jepg",
         "images/portfolio/photography/p5.jepg",
