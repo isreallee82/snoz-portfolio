@@ -11,10 +11,12 @@
   },
   "projects": [
     {
-      "title": "Black on white",
+      "title": "Model",
       "startDate": "2020",
       "description": "The most expanded application I had opportunity to work with. I've learned many outings and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
+        "images/portfolio/animal-shelter/p1.jpeg",
+        "images/portfolio/animal-shelter/p2.jpeg",
         "images/portfolio/animal-shelter/p3.jpeg",
         "images/portfolio/animal-shelter/p4.jpeg",
         "images/portfolio/animal-shelter/p5.jpeg",
@@ -29,13 +31,7 @@
         "images/portfolio/animal-shelter/p14.jpeg",
         "images/portfolio/animal-shelter/p15.jpeg",
         "images/portfolio/animal-shelter/p16.jpeg",
-        "images/portfolio/animal-shelter/p17.jpeg",
-        "images/portfolio/animal-shelter/p18.jpeg",
-        "images/portfolio/animal-shelter/p19.jpeg",
-        "images/portfolio/animal-shelter/p20.jpeg",
-        "images/portfolio/animal-shelter/p21.jpeg",
-        "images/portfolio/animal-shelter/p22.jpeg",
-        "images/portfolio/animal-shelter/p23.jpeg"
+        "images/portfolio/animal-shelter/p17.jpeg"
       ],
       "url": "",
       "outings": [
@@ -58,10 +54,13 @@
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/kl-fashion-show/p3.jepg",
-        "images/portfolio/kl-fashion-show/p4.jepg",
-        "images/portfolio/kl-fashion-show/p5.jepg",
-        "images/portfolio/kl-fashion-show/p6.jepg"
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg",
+        "images/portfolio/photography/p3.jpg",
+        "images/portfolio/photography/p4.jpg",
+        "images/portfolio/photography/p5.jpg",
+        "images/portfolio/photography/p6.jpg",
+        "images/portfolio/photography/p7.jpg"
       ],
       "url": "https://github.com",
       "outings": [
@@ -80,14 +79,10 @@
       "startDate": "2019",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/XWORLD/p3.jepg",
-        "images/portfolio/XWORLD/p4.jepg",
-        "images/portfolio/XWORLD/p5.jepg",
-        "images/portfolio/XWORLD/p6.jepg",
-        "images/portfolio/XWORLD/p7.jepg",
-        "images/portfolio/XWORLD/p8.jepg",
-        "images/portfolio/XWORLD/p9.jepg",
-        "images/portfolio/XWORLD/p10.jepg"
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg",
+        "images/portfolio/adventure/p3.jpg",
+        "images/portfolio/adventure/p4.jpg"
       ],
       "url": "https://github.com",
       "outings": [
