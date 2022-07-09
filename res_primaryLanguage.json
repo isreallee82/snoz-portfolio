@@ -54,13 +54,13 @@
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg",
-        "images/portfolio/photography/p3.jpg",
-        "images/portfolio/photography/p4.jpg",
-        "images/portfolio/photography/p5.jpg",
-        "images/portfolio/photography/p6.jpg",
-        "images/portfolio/photography/p7.jpg"
+        "images/portfolio/photography/p1.jepg",
+        "images/portfolio/photography/p2.jepg",
+        "images/portfolio/photography/p3.jepg",
+        "images/portfolio/photography/p4.jepg",
+        "images/portfolio/photography/p5.jepg",
+        "images/portfolio/photography/p6.jepg",
+        "images/portfolio/photography/p7.jepg"
       ],
       "url": "https://github.com",
       "outings": [
@@ -79,10 +79,10 @@
       "startDate": "2019",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg",
-        "images/portfolio/adventure/p3.jpg",
-        "images/portfolio/adventure/p4.jpg"
+        "images/portfolio/adventure/p1.jepg",
+        "images/portfolio/adventure/p2.jepg",
+        "images/portfolio/adventure/p3.jepg",
+        "images/portfolio/adventure/p4.jepg"
       ],
       "url": "https://github.com",
       "outings": [
