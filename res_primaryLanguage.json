@@ -58,11 +58,10 @@
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/photography/p3.jepg",
-        "images/portfolio/photography/p4.jepg",
-        "images/portfolio/photography/p5.jepg",
-        "images/portfolio/photography/p6.jepg",
-        "images/portfolio/photography/p7.jepg"
+        "images/portfolio/kl-fashion-show/p3.jepg",
+        "images/portfolio/kl-fashion-show/p4.jepg",
+        "images/portfolio/kl-fashion-show/p5.jepg",
+        "images/portfolio/kl-fashion-show/p6.jepg"
       ],
       "url": "https://github.com",
       "outings": [
@@ -81,14 +80,14 @@
       "startDate": "2019",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/photography/p3.jepg",
-        "images/portfolio/photography/p4.jepg",
-        "images/portfolio/photography/p5.jepg",
-        "images/portfolio/photography/p6.jepg",
-        "images/portfolio/photography/p7.jepg",
-        "images/portfolio/photography/p8.jepg",
-        "images/portfolio/photography/p9.jepg",
-        "images/portfolio/photography/p10.jepg"
+        "images/portfolio/XWORLD/p3.jepg",
+        "images/portfolio/XWORLD/p4.jepg",
+        "images/portfolio/XWORLD/p5.jepg",
+        "images/portfolio/XWORLD/p6.jepg",
+        "images/portfolio/XWORLD/p7.jepg",
+        "images/portfolio/XWORLD/p8.jepg",
+        "images/portfolio/XWORLD/p9.jepg",
+        "images/portfolio/XWORLD/p10.jepg"
       ],
       "url": "https://github.com",
       "outings": [
