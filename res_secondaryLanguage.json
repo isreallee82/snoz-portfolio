@@ -1,108 +1,150 @@
 {
   "basic_info": {
-    "description_header": "Cześć",
-    "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+    "description_header": "Hi",
+    "description": "👋 My name is Elijah Ajayi Snoz , Am extrovert in nature , 26 years old abstract and expressionism & music artist and a professional fashion model , Born in Nigeria currently living in Malaysia , I’m 186 cm talk and 82 kg weight , personal hobbies are book reading , writing , football , I love community services and social gathering , meetup .. Thank you 💜",
     "section_name": {
-      "about": "O mnie",
-      "projects": "Projekty",
-      "skills": "Umiejętności",
-      "experience": "Doświadczenie"
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
     }
   },
   "projects": [
     {
-      "title": "Xworld",
+      "title": "Black on white",
       "startDate": "2020",
-      "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+      "description": "The most expanded application I had opportunity to work with. I've learned many outings and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg",
-        "images/portfolio/animal-shelter/p3.jepg",
-        "images/portfolio/animal-shelter/p4.jepg",
-        "images/portfolio/animal-shelter/p5.jepg",
-        "images/portfolio/animal-shelter/p6.jepg",
-        "images/portfolio/animal-shelter/p7.jepg"
+        "images/portfolio/animal-shelter/p3.jpeg",
+        "images/portfolio/animal-shelter/p4.jpeg",
+        "images/portfolio/animal-shelter/p5.jpeg",
+        "images/portfolio/animal-shelter/p6.jpeg",
+        "images/portfolio/animal-shelter/p7.jpeg",
+        "images/portfolio/animal-shelter/p8.jpeg",
+        "images/portfolio/animal-shelter/p9.jpeg",
+        "images/portfolio/animal-shelter/p10.jpeg",
+        "images/portfolio/animal-shelter/p11.jpeg",
+        "images/portfolio/animal-shelter/p12.jpeg",
+        "images/portfolio/animal-shelter/p13.jpeg",
+        "images/portfolio/animal-shelter/p14.jpeg",
+        "images/portfolio/animal-shelter/p15.jpeg",
+        "images/portfolio/animal-shelter/p16.jpeg",
+        "images/portfolio/animal-shelter/p17.jpeg",
+        "images/portfolio/animal-shelter/p18.jpeg",
+        "images/portfolio/animal-shelter/p19.jpeg",
+        "images/portfolio/animal-shelter/p20.jpeg",
+        "images/portfolio/animal-shelter/p21.jpeg",
+        "images/portfolio/animal-shelter/p22.jpeg",
+        "images/portfolio/animal-shelter/p23.jpeg"
       ],
       "url": "",
       "outings": [
         {
-          "class": "bi bi-music-note",
-          "name": "Angular"
+          "class": "devicon-angularjs-plain",
+          "name": "Gucci store shot"
         },
         {
-          "class": "bi bi-music-note",
-          "name": "TypeScript"
+          "class": "devicon-typescript-plain",
+          "name": "contracts"
         },
         {
-          "class": "bi bi-music-note",
-          "name": "C#"
+          "class": "devicon-csharp-plain",
+          "name": "Photoshots"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "title": "XWORLD",
+      "startDate": "2022",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
         "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/photography/p2.jpg",
+        "images/portfolio/photography/p3.jepg",
+        "images/portfolio/photography/p4.jepg",
+        "images/portfolio/photography/p5.jepg",
+        "images/portfolio/photography/p6.jepg",
+        "images/portfolio/photography/p7.jepg"
       ],
       "url": "https://github.com",
       "outings": [
         {
           "class": "devicon-react-original",
-          "name": "Vtmt"
+          "name": "React"
         },
         {
           "class": "devicon-javascript-plain",
-          "name": "Gucci"
+          "name": "JavaScript"
         }
       ]
     },
     {
-      "title": "Model",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "title": "KL fashion show",
+      "startDate": "2019",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg",
-        "images/portfolio/adventure/p3.jepg",
-        "images/portfolio/adventure/p4.jepg",
-        "images/portfolio/adventure/p5.jepg",
-        "images/portfolio/adventure/p6.jepg",
-        "images/portfolio/adventure/p7.jepg"
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg",
+        "images/portfolio/photography/p3.jepg",
+        "images/portfolio/photography/p4.jepg",
+        "images/portfolio/photography/p5.jepg",
+        "images/portfolio/photography/p6.jepg",
+        "images/portfolio/photography/p7.jepg",
+        "images/portfolio/photography/p8.jepg",
+        "images/portfolio/photography/p9.jepg",
+        "images/portfolio/photography/p10.jepg"
       ],
       "url": "https://github.com",
       "outings": [
         {
           "class": "devicon-angularjs-plain",
-          "name": "Vtmt"
+          "name": "Photoshot"
         },
         {
           "class": "devicon-typescript-plain",
-          "name": "Gucci"
+          "name": "Brand display"
         },
         {
           "class": "devicon-csharp-plain",
-          "name": "Nike"
+          "name": "Store shots"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "Gucci",
-      "title": "model",
-      "years": "10.2019 - 15.2020",
-      "mainTech": ["Gucci 8/9/21"],
-      "outings": ["Photoshots", "Contracts", "Branding", "Product showcase"]
+      "company": "KL fashion show",
+      "title": "Fashion show",
+      "years": "01.2021 - 09.2021",
+      "mainTech": ["KL 7/8"],
+      "outings": ["Nerd unit ", "Bookd"]
     },
     {
-      "company": "Vtmt",
-      "title": "Ambassador",
+      "company": "Gucci",
+      "title": "Store shot",
+      "years": "01.2019 - 09.2020",
+      "mainTech": ["Gucci 7/8"],
+      "outings": ["Store shots", "Brand display", "Brand display", "Photoshot"]
+    },
+    {
+      "company": "Vintage",
+      "title": "Modelling",
       "years": "01.2018 - 09.2019",
-      "mainTech": ["Ttmt 7/8"],
-      "outings": ["Photoshots", "Contracts", "Branding", "Product showcase"]
+      "mainTech": ["Vintage 7/8"],
+      "outings": [
+        "nerd unit ",
+        "Bookd",
+        "Brand display",
+        "Photoshot",
+        "Store shots "
+      ]
+    },
+    {
+      "company": "VTMT",
+      "title": "Branding",
+      "years": "10.2018 - present",
+      "mainTech": ["VTMT 8/9/10"],
+      "outings": ["Contacts", "Photoshot", "Brand display"]
     }
   ]
 }
