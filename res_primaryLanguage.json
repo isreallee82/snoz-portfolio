@@ -54,13 +54,14 @@
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/photography/p1.jepg",
-        "images/portfolio/photography/p2.jepg",
-        "images/portfolio/photography/p3.jepg",
-        "images/portfolio/photography/p4.jepg",
-        "images/portfolio/photography/p5.jepg",
-        "images/portfolio/photography/p6.jepg",
-        "images/portfolio/photography/p7.jepg"
+        "images/portfolio/photography/p1.jpeg",
+        "images/portfolio/photography/p2.jpeg",
+        "images/portfolio/photography/p3.jpeg",
+        "images/portfolio/photography/p4.jpeg",
+        "images/portfolio/photography/p5.jpeg",
+        "images/portfolio/photography/p6.jpeg",
+        "images/portfolio/photography/p7.jpeg",
+        "images/portfolio/photography/p8.jpeg"
       ],
       "url": "https://github.com",
       "outings": [
