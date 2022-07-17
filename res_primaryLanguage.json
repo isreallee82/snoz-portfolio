@@ -98,27 +98,25 @@
       ]
     },
     {
-      "title": "Black on white",
+      "title": "Naonate",
       "startDate": "2020",
       "description": "The most expanded application I had opportunity to work with. I've learned many outings and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpeg",
-        "images/portfolio/animal-shelter/p2.jpeg",
-        "images/portfolio/animal-shelter/p3.jpeg",
-        "images/portfolio/animal-shelter/p4.jpeg",
-        "images/portfolio/animal-shelter/p5.jpeg",
-        "images/portfolio/animal-shelter/p6.jpeg",
-        "images/portfolio/animal-shelter/p7.jpeg",
-        "images/portfolio/animal-shelter/p8.jpeg",
-        "images/portfolio/animal-shelter/p9.jpeg",
-        "images/portfolio/animal-shelter/p10.jpeg",
-        "images/portfolio/animal-shelter/p11.jpeg",
-        "images/portfolio/animal-shelter/p12.jpeg",
-        "images/portfolio/animal-shelter/p13.jpeg",
-        "images/portfolio/animal-shelter/p14.jpeg",
-        "images/portfolio/animal-shelter/p15.jpeg",
-        "images/portfolio/animal-shelter/p16.jpeg",
-        "images/portfolio/animal-shelter/p17.jpeg"
+        "images/portfolio/naonate/p1.JPG",
+        "images/portfolio/naonate/p2.JPG",
+        "images/portfolio/naonate/p3.JPG",
+        "images/portfolio/naonate/p4.JPG",
+        "images/portfolio/naonate/p5.JPG",
+        "images/portfolio/naonate/p6.JPG",
+        "images/portfolio/naonate/p7.JPG",
+        "images/portfolio/naonate/p8.JPG",
+        "images/portfolio/naonate/p9.JPG",
+        "images/portfolio/naonate/p10.JPG",
+        "images/portfolio/naonate/p11.JPG",
+        "images/portfolio/naonate/p12.JPG",
+        "images/portfolio/naonate/p13.JPG",
+        "images/portfolio/naonate/p14.JPG",
+        "images/portfolio/naonate/p15.JPG"
       ],
       "url": "",
       "outings": [
@@ -137,18 +135,17 @@
       ]
     },
     {
-      "title": "XWORLD",
+      "title": "DIOR",
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/photography/p1.jpeg",
-        "images/portfolio/photography/p2.jpeg",
-        "images/portfolio/photography/p3.jpeg",
-        "images/portfolio/photography/p4.jpeg",
-        "images/portfolio/photography/p5.jpeg",
-        "images/portfolio/photography/p6.jpeg",
-        "images/portfolio/photography/p7.jpeg",
-        "images/portfolio/photography/p8.jpeg"
+        "images/portfolio/dior/p1.JPG",
+        "images/portfolio/dior/p2.JPG",
+        "images/portfolio/dior/p3.JPG",
+        "images/portfolio/dior/p4.JPG",
+        "images/portfolio/dior/p5.JPG",
+        "images/portfolio/dior/p6.JPG",
+        "images/portfolio/dior/p7.JPG"
       ],
       "url": "https://github.com",
       "outings": [
@@ -163,15 +160,10 @@
       ]
     },
     {
-      "title": "KL Fashon Show",
+      "title": "GUCCI",
       "startDate": "2022",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/adventure/p2.jpeg",
-        "images/portfolio/adventure/p1.jpeg",
-        "images/portfolio/adventure/p3.jpeg",
-        "images/portfolio/adventure/p4.jpeg"
-      ],
+      "images": ["images/portfolio/gucci/p1.JPG"],
       "url": "https://github.com",
       "outings": [
         {
@@ -218,6 +210,13 @@
       "title": "Branding",
       "years": "10.2018 - present",
       "mainTech": ["VTMT 8/9/10"],
+      "outings": ["Contacts", "Photoshot", "Brand display"]
+    },
+    {
+      "company": "Benz",
+      "title": "Upcoming",
+      "years": "july 2022",
+      "mainTech": ["Benz 23/7/22"],
       "outings": ["Contacts", "Photoshot", "Brand display"]
     }
   ]
