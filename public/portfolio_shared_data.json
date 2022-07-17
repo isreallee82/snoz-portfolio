@@ -1,0 +1,58 @@
+{
+  "basic_info": {
+    "name": "Elijah snoz",
+    "titles": ["Model", "Artist", "Writer", "Designer", "Dancer"],
+    "social": [
+      {
+        "name": "linkdln",
+        "url": "https://www.linkedin.com/in/elijah-snoz-1a6901180",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/elijahsnoz",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.JPG"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Modelling",
+        "class": "",
+        "level": "95"
+      },
+      {
+        "name": "Musician",
+        "class": "",
+        "level": "95"
+      },
+      {
+        "name": "Writter",
+        "class": "",
+        "level": "80"
+      },
+      {
+        "name": "Dancer",
+        "class": "",
+        "level": "90"
+      },
+      {
+        "name": "Designer",
+        "class": "",
+        "level": "70"
+      },
+      {
+        "name": "Event planner",
+        "class": "",
+        "level": "85"
+      },
+      {
+        "name": "Photography",
+        "class": "",
+        "level": "65"
+      }
+    ]
+  }
+}
