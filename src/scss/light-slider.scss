@@ -80,14 +80,14 @@ $content-background-color: #d7caaa;
   &__container {
     display: block;
     width: 100%;
-    height: 600px;
+    height: 500px;
     padding-bottom: var(--slider-height-percentage);
 
     @media all and (max-width: 500px) {
       &__container {
         display: block;
         width: 100%;
-        height: 100%;
+        height: 400px;
       }
     }
 
